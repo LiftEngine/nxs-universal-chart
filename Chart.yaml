@@ -38,4 +38,4 @@ annotations:
 dependencies:
   - name: nuc-common
     version: 1.0.5
-    repository: "git+https://github.com/LiftEngine/nuc-common@?ref=v1.0.5"
+    repository: "file:///tmp/nuc-common"
